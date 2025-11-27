@@ -5,15 +5,18 @@
 4. I benchmarked this against a "dslim/bert-base-NER" Transformer model running on a local GPU (Mac MPS). While the Transformer offered better semantic understanding, it required 300ms+ per request.
    
 
+
 **Which identifier types were skipped or handled poorly? Why?**
 
 Vehicle license plates were handled poorly as they vary geographically and custom plates are hard to identify without knowing the context.
+
 
 
 **What adversarial patterns would bypass the detector?**
 
 It is observed that Names with typos can be missed (J0hn instead of John). This is pure regex pattern matching error. 
 These can be handled by writing multiple combination of regex patterns but can become extensive and hard to maintain.
+
 
 
 **What more can we do with a GPU/more time?**
@@ -35,5 +38,7 @@ This would allow us to generate precision/recall curves for each regex pattern, 
 
 I skimmed through these papers with novel methods implemented in the deidentification domain including CRFs, Token classiification techniques which can be used for a hybrid model. 
 
+
 [Automatic de-identification of textual documents in the electronic health record: a review of recent research](https://link.springer.com/article/10.1186/1471-2288-10-70)
+
 [A hybrid approach to automatic de-identification of psychiatric notes](https://clamp.uth.edu/challenges-publications/A%20hybrid%20approach%20to%20automatic%20de-identification%20of%20psychiatric%20notes.pdf)
