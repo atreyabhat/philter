@@ -21,12 +21,11 @@ These can be handled by writing multiple combination of regex patterns but can b
 The focus was on reducing latency and High Recall / Low Precision. I considered false positives to be better than having false negatives.
 We can block it first as a precaution and then use a hybrid ML and generalizable detector to handle fuzzy entities. 
 
-Layer 1 Current C++: Fast, blocking gatekeeper.
-Layer 2: A Transformer-based model to handle fuzzy entities.
-Custom Fine-tuning: Standard BERT models perform poorly on Dates and SSNs. I would fine-tune a model specifically for medical de-identification.
-Optimization: ONNX runtime and quantization to reduce inference time.
+**Layers**: C++ Fast, blocking gatekeeper and then use a Transformer-based model to handle fuzzy entities.
+**Custom Fine-tuning**: Standard BERT models perform poorly on Dates and SSNs. I would fine-tune a model specifically for medical de-identification.
+**Optimization**: ONNX runtime and quantization to reduce inference time.
 
-Bonus: Generative AI often outputs data in Base64 or other encodings. 
+**Bonus**: Generative AI often outputs data in Base64 or other encodings. 
 An ML model could be trained to detect potential encoded PHI that a regex would miss, preventing upload to external LLMs.
 
 With more time, I would implement a formal Evaluation Pipeline using labeled ground-truth datasets. 
