@@ -1,0 +1,255 @@
+Subjective: Liam O'Connor complains of vertigo since 2025-11-26. History of hypertension.
+Refer to external record: https://www.hospital.org/patient/9921.
+Consultation note for Dr. Rahman. Patient: Wei Chen. SSN: 512-88-9021.
+Emergency contact for Maria Rodriguez: 212-555-0199. Address: 12 Maple Ave, Springfield, IL 62704.
+Fax referral received from 312-555-9988 regarding Patient James Smith.
+Refer to external record: https://www.med-secure.net/patient/1102.
+Discharge summary. Patient James Smith stable. Follow up with Dr. Lang on 2025-11-26.
+Provider License: MD88219 verified.
+Subjective: Fatemeh Karimi complains of nausea since 2025-11-26. History of type 2 diabetes.
+Discharge summary. Patient Robert Johnson stable. Follow up with Dr. Patel on 2025-11-26.
+Vehicle Transport: Ambulance Plate KLP-998 transport for Patient Emily White.
+Device info: MAC Address a1:b2:c3:d4:e5:f6, Serial No SN-9988776.
+Refer to external record: https://www.hospital.org/patient/3344.
+Lab results for Lucas Silva sent to lucas.silva@example.com. IP: 192.168.1.105.
+Refer to external record: https://www.med-secure.net/patient/5566.
+Biometric data: fingerprint verified.
+Lab results for Olivia Jones sent to olivia.j@example.com. IP: 10.0.0.42.
+Biometric data: retina scan verified.
+Subjective: Noah Williams complains of chest tightness since 2025-11-26. History of asthma.
+Emergency contact for Isabella Garcia: 305-555-0123. Address: 45 Ocean Dr, Miami, FL 33101.
+Consultation note for Dr. Kim. Patient: Ethan Brown. SSN: 123-45-6789.
+Discharge summary. Patient Sophia Davis stable. Follow up with Dr. Lee on 2025-11-26.
+Device info: MAC Address 11:22:33:44:55:66, Serial No SN-1122334.
+Lab results for Mason Miller sent to m.miller@example.com. IP: 172.16.0.23.
+Emergency contact for Ava Wilson: 415-555-0987. Address: 789 Hill St, San Francisco, CA 94102.
+Device info: MAC Address aa:bb:cc:dd:ee:ff, Serial No SN-5566778.
+Lab results for Charlotte Moore sent to c.moore@example.com. IP: 198.51.100.12.
+Provider License: MD12345 verified.
+Provider License: MD67890 verified.
+Account: ACCT987654 billing status pending.
+Consultation note for Dr. Rossi. Patient: Amelia Taylor. SSN: 987-65-4321.
+Emergency contact for Harper Anderson: 206-555-0456. Address: 321 Rain St, Seattle, WA 98101.
+Device info: MAC Address 00:11:22:33:44:55, Serial No SN-9900112.
+Refer to external record: https://www.med-secure.net/patient/7788.
+Discharge summary. Patient Evelyn Thomas stable. Follow up with Dr. Nguyen on 2025-11-26.
+Emergency contact for Abigail Jackson: 617-555-0789. Address: 654 Old North Rd, Boston, MA 02108.
+Provider License: MD54321 verified.
+Device info: MAC Address 66:77:88:99:aa:bb, Serial No SN-3344556.
+Emergency contact for Emily Hill: 312-555-0654. Address: 987 Lake Shore Dr, Chicago, IL 60611.
+Lab results for Elizabeth White sent to e.white@example.com. IP: 203.0.113.5.
+Device info: MAC Address cc:dd:ee:ff:00:11, Serial No SN-7788990.
+Device info: MAC Address 22:33:44:55:66:77, Serial No SN-2233445.
+Subjective: Alexander Harris complains of severe headache since 2025-11-26. History of migraines.
+Patient Sofia Martin (DOB: 05/12/1990) presented with fatigue. MRN: 112233445.
+Discharge summary. Patient Daniel Thompson stable. Follow up with Dr. Garcia on 2025-11-26.
+Patient Matthew Martinez (DOB: 11/22/1985) presented with fever. MRN: 556677889.
+Refer to external record: https://www.med-secure.net/patient/9900.
+Device info: MAC Address 44:55:66:77:88:99, Serial No SN-6677889.
+Lab results for Henry Robinson sent to h.robinson@example.com. IP: 192.0.2.1.
+Account: ACCT112233 billing status pending.
+Account: ACCT445566 billing status pending.
+Lab results for Joseph Clark sent to j.clark@example.com. IP: 198.18.0.10.
+Account: ACCT778899 billing status pending.
+Biometric data: facial recognition verified.
+Patient provided photo of face for identification.
+Provider License: MD99887 verified.
+Patient Samuel Rodriguez (DOB: 08/15/2010) presented with abdominal pain. MRN: 223344556.
+Consultation note for Dr. Lewis. Patient: David Lewis. SSN: 456-78-9012.
+Provider License: MD11223 verified.
+Biometric data: palm vein scan verified.
+Refer to external record: https://www.med-secure.net/patient/2233.
+Patient Benjamin Lee (DOB: 02/28/1975) presented with shortness of breath. MRN: 889900112.
+Device info: MAC Address 88:99:aa:bb:cc:dd, Serial No SN-4455667.
+Patient Sebastian Walker (DOB: 09/09/2000) presented with dizziness. MRN: 334455667.
+Lab results for Jack Hall sent to j.hall@example.com. IP: 100.64.0.1.
+Consultation note for Dr. Allen. Patient: Aiden Young. SSN: 789-01-2345.
+Provider License: MD33445 verified.
+Subjective: Owen King complains of joint pain since 2025-11-26. History of arthritis.
+Provider License: MD55667 verified.
+Lab results for Gabriel Wright sent to g.wright@example.com. IP: 172.31.255.255.
+Emergency contact for Wyatt Scott: 713-555-0321. Address: 147 Bayou Blvd, Houston, TX 77002.
+Patient provided photo of face for identification.
+Device info: MAC Address dd:ee:ff:00:11:22, Serial No SN-8899001.
+Biometric data: iris scan verified.
+Lab results for Julian Green sent to j.green@example.com. IP: 192.88.99.1.
+Emergency contact for Luke Baker: 602-555-0912. Address: 258 Desert Way, Phoenix, AZ 85001.
+Fax referral received from 202-555-0101 regarding Patient Isaac Adams.
+Vehicle Transport: Ambulance Plate WXY-456 transport for Patient Dylan Nelson.
+Patient Carter Hill (DOB: 04/04/1955) presented with chest pain. MRN: 667788990.
+Insurance Policy G-12345 for Isaac Adams. Plan: BlueCross. Member ID: GRP-009988.
+Subjective: Jayden Ramirez complains of cough since 2025-11-26. History of COPD.
+Account: ACCT223344 billing status pending.
+Device info: MAC Address 12:34:56:78:9a:bc, Serial No SN-1212121.
+Refer to external record: https://www.hospital.org/patient/6789.
+Biometric data: voice print verified.
+Lab results for Nathan Campbell sent to n.campbell@example.com. IP: 203.0.113.100.
+Provider License: MD77889 verified.
+Patient Caleb Mitchell (DOB: 12/12/1980) presented with nausea. MRN: 990011223.
+Emergency contact for Ryan Roberts: 904-555-0765. Address: 369 Pine St, Jacksonville, FL 32099.
+Fax referral received from 702-555-0000 regarding Patient Christian Carter.
+Device info: MAC Address de:ad:be:ef:00:01, Serial No SN-3434343.
+Refer to external record: https://www.med-secure.net/patient/1234.
+Account: ACCT556677 billing status pending.
+Patient provided photo of face for identification.
+Subjective: Hunter Phillips complains of fatigue since 2025-11-26. History of anemia.
+Biometric data: fingerprint verified.
+Insurance Policy G-67890 for Hunter Phillips. Plan: Aetna. Member ID: GRP-112233.
+Consultation note for Dr. Ward. Patient: Eli Evans. SSN: 234-56-7890.
+Refer to external record: https://www.hospital.org/patient/9876.
+Lab results for Aaron Turner sent to a.turner@example.com. IP: 198.51.100.50.
+Patient Connor Torres (DOB: 01/01/2015) presented with fever. MRN: 445566778.
+Discharge summary. Patient Landon Parker stable. Follow up with Dr. Collins on 2025-11-26.
+Provider License: MD99001 verified.
+Device info: MAC Address 1a:2b:3c:4d:5e:6f, Serial No SN-5656565.
+Emergency contact for Jonathan Edwards: 801-555-0234. Address: 159 Salt Lake Blvd, Salt Lake City, UT 84101.
+Biometric data: retina scan verified.
+Fax referral received from 215-555-0999 regarding Patient Adrian Stewart.
+Account: ACCT889900 billing status pending.
+Subjective: Jeremiah Flores complains of shortness of breath since 2025-11-26. History of asthma.
+Vehicle Transport: Ambulance Plate ABC-123 transport for Patient Cameron Morris.
+Refer to external record: https://www.med-secure.net/patient/4321.
+Lab results for Ezekiel Nguyen sent to e.nguyen@example.com. IP: 10.10.10.10.
+Insurance Policy G-13579 for Ezekiel Nguyen. Plan: Cigna. Member ID: GRP-445566.
+Patient provided photo of face for identification.
+Device info: MAC Address f0:e1:d2:c3:b4:a5, Serial No SN-7878787.
+Patient Angel Murphy (DOB: 06/06/1960) presented with abdominal pain. MRN: 778899001.
+Emergency contact for Roman Rivera: 303-555-0876. Address: 753 Rocky Rd, Denver, CO 80202.
+Provider License: MD11224 verified.
+Discharge summary. Patient Axle Cook stable. Follow up with Dr. Rogers on 2025-11-26.
+Biometric data: facial recognition verified.
+Subjective: Easton Morgan complains of dizziness since 2025-11-26. History of low blood pressure.
+Refer to external record: https://www.hospital.org/patient/5432.
+Consultation note for Dr. Reed. Patient: Miles Bell. SSN: 345-67-8901.
+Lab results for Silas Brooks sent to s.brooks@example.com. IP: 192.168.0.254.
+Account: ACCT121212 billing status pending.
+Device info: MAC Address 0f:1e:2d:3c:4b:5a, Serial No SN-9090909.
+Emergency contact for Austin Kelly: 615-555-0432. Address: 951 Music Row, Nashville, TN 37203.
+Fax referral received from 503-555-0678 regarding Patient Jordan Sanders.
+Patient Dominic Price (DOB: 10/10/1995) presented with headache. MRN: 221133445.
+Biometric data: palm vein scan verified.
+Subjective: Adam Bennett complains of back pain since 2025-11-26. History of sciatica.
+Refer to external record: https://www.med-secure.net/patient/8765.
+Insurance Policy G-24680 for Adam Bennett. Plan: UnitedHealth. Member ID: GRP-778899.
+Lab results for Ian Wood sent to i.wood@example.com. IP: 172.16.254.1.
+Provider License: MD33446 verified.
+Patient provided photo of face for identification.
+Device info: MAC Address a0:b1:c2:d3:e4:f5, Serial No SN-1357924.
+Discharge summary. Patient Thomas Barnes stable. Follow up with Dr. Cooper on 2025-11-26.
+Emergency contact for Robert Ross: 313-555-0159. Address: 357 Motor City Dr, Detroit, MI 48201.
+Account: ACCT454545 billing status pending.
+Vehicle Transport: Ambulance Plate REG-789 transport for Patient Xavier Henderson.
+Biometric data: voice print verified.
+Consultation note for Dr. Richardson. Patient: Brody Coleman. SSN: 567-89-0123.
+Patient Jace Jenkins (DOB: 03/03/1970) presented with chest pain. MRN: 554433221.
+Refer to external record: https://www.hospital.org/patient/2109.
+Subjective: Everett Perry complains of nausea since 2025-11-26. History of gastritis.
+Lab results for Nolan Powell sent to n.powell@example.com. IP: 100.100.100.100.
+Device info: MAC Address 55:44:33:22:11:00, Serial No SN-2468135.
+Fax referral received from 916-555-0303 regarding Patient Kayden Long.
+Emergency contact for Hudson Patterson: 404-555-0555. Address: 123 Peach St, Atlanta, GA 30301.
+Provider License: MD55668 verified.
+Patient provided photo of face for identification.
+Insurance Policy G-98765 for Hudson Patterson. Plan: Kaiser. Member ID: GRP-223344.
+Biometric data: retina scan verified.
+Discharge summary. Patient Lincoln Hughes stable. Follow up with Dr. Howard on 2025-11-26.
+Refer to external record: https://www.med-secure.net/patient/6543.
+Account: ACCT787878 billing status pending.
+Lab results for Ezra Flores sent to e.flores@example.com. IP: 198.51.100.200.
+Subjective: Bentlee Washington complains of fever since 2025-11-26. History of infection.
+Device info: MAC Address 00:00:00:00:00:00, Serial No SN-9876543.
+Patient Carson Butler (DOB: 07/07/2018) presented with cough. MRN: 887766554.
+Emergency contact for Maverick Simmons: 704-555-0222. Address: 852 Queen City Blvd, Charlotte, NC 28202.
+Provider License: MD77890 verified.
+Biometric data: iris scan verified.
+Consultation note for Dr. Foster. Patient: Beau Foster. SSN: 890-12-3456.
+Vehicle Transport: Ambulance Plate LMN-321 transport for Patient Sawyer Gonzales.
+Refer to external record: https://www.hospital.org/patient/0987.
+Fax referral received from 612-555-0888 regarding Patient Chase Bryant.
+Account: ACCT909090 billing status pending.
+Lab results for Jason Alexander sent to j.alexander@example.com. IP: 203.0.113.250.
+Patient provided photo of face for identification.
+Device info: MAC Address ff:ff:ff:ff:ff:ff, Serial No SN-1111111.
+Subjective: Parker Russell complains of anxiety since 2025-11-26. History of PTSD.
+Insurance Policy G-54321 for Parker Russell. Plan: Humana. Member ID: GRP-556677.
+Discharge summary. Patient Cooper Griffin stable. Follow up with Dr. Hayes on 2025-11-26.
+Emergency contact for Gavin Diaz: 512-555-0777. Address: 654 Lone Star Ln, Austin, TX 78701.
+Biometric data: fingerprint verified.
+Refer to external record: https://www.med-secure.net/patient/3456.
+Patient Leo Hayes (DOB: 11/11/1988) presented with fatigue. MRN: 332211009.
+Provider License: MD99002 verified.
+Device info: MAC Address c0:ff:ee:c0:ff:ee, Serial No SN-2222222.
+Lab results for Dominic Myers sent to d.myers@example.com. IP: 192.0.2.254.
+Account: ACCT343434 billing status pending.
+Fax referral received from 214-555-0444 regarding Patient Jaxon Ford.
+Consultation note for Dr. Hamilton. Patient: Colin Hamilton. SSN: 012-34-5678.
+Biometric data: facial recognition verified.
+Subjective: Riley Graham complains of vision loss since 2025-11-26. History of glaucoma.
+Vehicle Transport: Ambulance Plate HJK-654 transport for Patient Micah Sullivan.
+Refer to external record: https://www.hospital.org/patient/7654.
+Emergency contact for Elias Wallace: 858-555-0111. Address: 963 Surf Way, San Diego, CA 92101.
+Device info: MAC Address 12:34:56:78:90:ab, Serial No SN-3333333.
+Patient provided photo of face for identification.
+Lab results for Tristan Woods sent to t.woods@example.com. IP: 10.0.1.1.
+Insurance Policy G-11223 for Tristan Woods. Plan: BlueCross. Member ID: GRP-889900.
+Patient Cole Cole (DOB: 09/25/1992) presented with rash. MRN: 998877665.
+Provider License: MD11225 verified.
+Discharge summary. Patient Nathaniel West stable. Follow up with Dr. Jordan on 2025-11-26.
+Account: ACCT676767 billing status pending.
+Biometric data: palm vein scan verified.
+Subjective: Julian Jordan complains of toothache since 2025-11-26. History of dental caries.
+Refer to external record: https://www.med-secure.net/patient/9012.
+Device info: MAC Address ab:cd:ef:01:23:45, Serial No SN-4444444.
+Emergency contact for Bryan Owens: 407-555-0999. Address: 741 Theme Park Dr, Orlando, FL 32801.
+Fax referral received from 813-555-0222 regarding Patient Carlos Reynolds.
+Lab results for Sean Fisher sent to s.fisher@example.com. IP: 172.16.10.10.
+Consultation note for Dr. Ellis. Patient: Alex Ellis. SSN: 678-90-1234.
+Biometric data: retina scan verified.
+Patient provided photo of face for identification.
+Vehicle Transport: Ambulance Plate QRS-987 transport for Patient Hayden Harrison.
+Patient Jesus Gibson (DOB: 05/05/2005) presented with sore throat. MRN: 443322110.
+Provider License: MD33447 verified.
+Insurance Policy G-33445 for Jesus Gibson. Plan: Aetna. Member ID: GRP-123456.
+Discharge summary. Patient Jesse McDonald stable. Follow up with Dr. Marshall on 2025-11-26.
+Account: ACCT989898 billing status pending.
+Device info: MAC Address 45:23:01:ef:cd:ab, Serial No SN-5555555.
+Refer to external record: https://www.hospital.org/patient/5678.
+Subjective: Blake Cruz complains of ear pain since 2025-11-26. History of otitis media.
+Emergency contact for Brogan Marshall: 504-555-0666. Address: 369 Jazz St, New Orleans, LA 70112.
+Lab results for Brayden Ortiz sent to b.ortiz@example.com. IP: 198.51.100.1.
+Biometric data: voice print verified.
+Fax referral received from 210-555-0333 regarding Patient Antonio Gomez.
+Patient Kaleb Murray (DOB: 02/02/1945) presented with tremors. MRN: 110022334.
+Provider License: MD55669 verified.
+Device info: MAC Address 67:89:ab:cd:ef:01, Serial No SN-6666666.
+Account: ACCT131313 billing status pending.
+Refer to external record: https://www.med-secure.net/patient/2345.
+Consultation note for Dr. Freeman. Patient: Caden Freeman. SSN: 901-23-4567.
+Biometric data: iris scan verified.
+Patient provided photo of face for identification.
+Insurance Policy G-55667 for Caden Freeman. Plan: Cigna. Member ID: GRP-789012.
+Subjective: Garrett Wells complains of weakness since 2025-11-26. History of stroke.
+Lab results for Joel Webb sent to j.webb@example.com. IP: 203.0.113.20.
+Emergency contact for Grant Simpson: 614-555-0444. Address: 258 Buckeye Ln, Columbus, OH 43215.
+Vehicle Transport: Ambulance Plate TUV-246 transport for Patient Seth Stevens.
+Discharge summary. Patient Marcus Tucker stable. Follow up with Dr. Porter on 2025-11-26.
+Provider License: MD77891 verified.
+Device info: MAC Address fe:dc:ba:98:76:54, Serial No SN-7777777.
+Account: ACCT242424 billing status pending.
+Refer to external record: https://www.hospital.org/patient/8901.
+Biometric data: fingerprint verified.
+Fax referral received from 718-555-0111 regarding Patient Preston Porter.
+Patient Jeremy Hunter (DOB: 08/08/1982) presented with vomiting. MRN: 665544332.
+Subjective: Kyle Hicks complains of dizziness since 2025-11-26. History of vertigo.
+Emergency contact for Brantley Crawford: 901-555-0888. Address: 147 Blues Blvd, Memphis, TN 38103.
+Lab results for Kaden Henry sent to k.henry@example.com. IP: 192.168.100.1.
+Insurance Policy G-77889 for Kaden Henry. Plan: UnitedHealth. Member ID: GRP-345678.
+Device info: MAC Address 10:20:30:40:50:60, Serial No SN-8888888.
+Consultation note for Dr. Boyd. Patient: Jaxson Boyd. SSN: 432-10-9876.
+Patient provided photo of face for identification.
+Refer to external record: https://www.med-secure.net/patient/6789.
+Biometric data: facial recognition verified.
+Account: ACCT575757 billing status pending.
+Discharge summary. Patient Beckett Mason stable. Follow up with Dr. Kennedy on 2025-11-26.
+Provider License: MD99003 verified.
+Vehicle Transport: Ambulance Plate ZAX-135 transport for Patient Felix Morales.

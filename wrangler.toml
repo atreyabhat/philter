@@ -1,0 +1,8 @@
+name = "zero-egress-phi"
+main = "index.js"
+compatibility_date = "2024-11-27"
+
+[[rules]]
+type = "CompiledWasm"
+globs = ["**/*.wasm"]
+fallthrough = false
