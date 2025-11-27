@@ -22,7 +22,9 @@ The focus was on reducing latency and High Recall / Low Precision. I considered 
 We can block it first as a precaution and then use a hybrid ML and generalizable detector to handle fuzzy entities. 
 
 **Layers**: C++ Fast, blocking gatekeeper and then use a Transformer-based model to handle fuzzy entities.
+
 **Custom Fine-tuning**: Standard BERT models perform poorly on Dates and SSNs. I would fine-tune a model specifically for medical de-identification.
+
 **Optimization**: ONNX runtime and quantization to reduce inference time.
 
 **Bonus**: Generative AI often outputs data in Base64 or other encodings. 
